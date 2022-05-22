@@ -1,5 +1,5 @@
 # Horiseon-demo
-A website to demonstrate an on-the-job ticket challenge. Goal was to improve the source code for accessibility and structure.
+A website to demonstrate an on-the-job ticket challenge. Goal was to improve the source code for accessibility and structure. 
 
 ## User Story: 
 AS A marketing agency
@@ -24,7 +24,10 @@ GIVEN a webpage meets accessibility standards
 * WHEN I view the title element
 * THEN I find a concise, descriptive title
 
+## Links
 
+* GitHub Page: [https://dkhubgit.github.io/Horiseon-demo/](https://dkhubgit.github.io/Horiseon-demo/)
+* GitHub Repository: [https://github.com/DKhubgit/Horiseon-demo.git](https://github.com/DKhubgit/Horiseon-demo.git)
 
 
 
